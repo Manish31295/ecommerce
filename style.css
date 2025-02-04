@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.user-form{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.table-body{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
